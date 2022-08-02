@@ -1,2 +1,2 @@
 # RedPitaya
-https://safirafie.github.io./
+https://safirafie.github.io/
