@@ -2,8 +2,7 @@
 %{
  Description:
  -----------
- This function calculates the cavity length, cavity linewidth,
- cavity free spectra range, finesse. 
+ Stream and analyse. 
 
  Parameters (inputs): (Type)
  -----------
