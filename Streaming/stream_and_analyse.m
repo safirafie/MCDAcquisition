@@ -1,7 +1,27 @@
-% Compare with LeCroy: for every 2ms, take 5kS then for every point 400ns
-% per point. = 1/2.5e6 sampling rate.
-% in this code for every 2ms, we take 15.625kS then for every point 128ns
-% per point. = 1/7.8e6 sampling rate.
+%% Description
+%{
+ Description:
+ -----------
+ This function calculates the cavity length, cavity linewidth,
+ cavity free spectra range, finesse. 
+
+ Parameters (inputs): (Type)
+ -----------
+
+ Returns (outputs): (Type)
+ -----------
+ 
+ License:
+ -------
+ MIT License
+ Copyright (c) 2022 by Safi Rafie-Zinedine
+ A part of MCDAcquisition package: https://github.com/safirafie/MCDAcquisition
+
+ Tested on:
+ ------------------
+ MatLab 2022a
+%}
+
 %% Prepare workspace
 clear
 close all;
