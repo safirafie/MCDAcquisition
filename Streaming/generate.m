@@ -11,6 +11,7 @@ tcpipObj=tcpclient(IP, port);
 flushinput(tcpipObj);
 flushoutput(tcpipObj);
 
+
 %% Open connection with your Red Pitaya
 fopen(tcpipObj);
 configureTerminator(tcpipObj,"CR/LF")
