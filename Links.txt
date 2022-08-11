@@ -1,0 +1,31 @@
+FPGA\adc_test
+client  on PC
+server on red pitaya
+
+
+https://readthedocs.org/
+
+https://ln1985blog.wordpress.com/2016/02/07/red-pitaya-dac-performance/
+
+https://qt5201.org/index.php/Saturated_Absorption_Spectroscopy_%2B_Frequency_Modulation_Locking_on_the_D2_line_of_Rubidium_87#Red_Pitaya:_PID_control
+
+
+https://qt5201.org/index.php/Main_Page
+
+
+STEMlab 125-14 Low N
+RP-F0A62A.local/
+
+
+https://github.com/RedPitaya/RedPitaya/tree/master/Examples/C
+
+
+https://github.com/pavel-demin/red-pitaya-notes/tree/master/projects
+
+https://github.com/HrRossi/RedPitaya/tree/master/Examples/C
+
+https://github.com/HrRossi/RedPitaya/tree/master/Examples/C
+
+https://github.com/HrRossi/RedPitaya/blob/master/README.md
+
+https://redpitaya.readthedocs.io/en/latest/developerGuide/software/build/comC.html
