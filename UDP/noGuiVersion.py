@@ -8,7 +8,7 @@ import RP_PLL
 
 ##############################################################################
 # Warning : For this code to work, the correct FPGA firmware and CPU software must have been updated.
-IP = "192.168.1.104"         # "192.168.1.154"
+IP = "192.168.1.105"         # "192.168.1.154"
 PORT = 5000 #5000 by default
 
 #### User selection
