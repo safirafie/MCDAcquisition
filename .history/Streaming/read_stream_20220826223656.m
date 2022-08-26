@@ -1,6 +1,6 @@
 %% Description
 %{
- Read the stream.
+ Stream and analyse.
 
  Inputs: 
  Outputs: 

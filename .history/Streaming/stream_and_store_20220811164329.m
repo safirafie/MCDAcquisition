@@ -1,18 +1,24 @@
 %% Description
 %{
- Stream and store.
+ Description:
+ -----------
+ Stream and store. 
 
- Inputs: 
- Outputs: 
- --------
+ Parameters (inputs): (Type)
+ -----------
+
+ Returns (outputs): (Type)
+ -----------
  
  License:
- --------
+ -------
  MIT License
  Copyright (c) 2022 by Safi Rafie-Zinedine
  A part of MCDAcquisition package: https://github.com/safirafie/MCDAcquisition
- 
- Tested on: MatLab 2022a 
+
+ Tested on:
+ ------------------
+ MatLab 2022a
 %}
 
 n_repeat = 1;

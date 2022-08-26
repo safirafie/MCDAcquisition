@@ -1,20 +1,3 @@
-%% Description
-%{
- Read the stream.
-
- Inputs: 
- Outputs: 
- --------
- 
- License:
- --------
- MIT License
- Copyright (c) 2022 by Safi Rafie-Zinedine
- A part of MCDAcquisition package: https://github.com/safirafie/MCDAcquisition
- 
- Tested on: MatLab 2022a 
-%}
-
 %% Prepare workspace
 clear
 close all;
