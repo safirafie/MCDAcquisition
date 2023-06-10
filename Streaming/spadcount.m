@@ -37,7 +37,7 @@ n_seq = 20;
 
 
 %% Define Red Pitaya as TCP/IP object
-IP= '192.168.1.106';           % Input IP of your Red Pitaya...
+IP= 'xxxx.xxxx.xxxx.xxxx';           % Input IP of your Red Pitaya...
 port = 5000;
 tcpipObj=tcpclient(IP, port);
 flushinput(tcpipObj);
